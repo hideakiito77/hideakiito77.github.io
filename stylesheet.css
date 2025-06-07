@@ -8,15 +8,20 @@ body {
 
 /* header setting */
 .header {
+    margin: 15px 0px 15px px ;
     font-size: 32px;
-    background-color: #f7f2b4;
+    background-color: #252522;
     display: block;
     unicode-bidi: isolate;
 }
-
+.header-logo {
+    margin: 15px 0 0 0;
+    color: #ffff;
+}
 .nav ul {
     margin: 30px 0 0 0;
     padding: 0;
+    color: #ffff;
     list-style-type: none;
     display: flex;
     justify-content: center;
