@@ -16,6 +16,7 @@ body {
 }
 
 .header-logo {
+    font-family: serif;
     font-size: 40px;
     margin: 10px 40px 10px 20px;
     color: #ffff;
@@ -34,8 +35,10 @@ body {
 
 /* main part */
 .main {
+    background-color: aqua;
+    margin: 15px 10px 15px 10px;
+    padding: 20px 20px 20px 20px;
     font-size: 16px;
-    background-color: #bdf7f7;
 }
 
 .footer {
