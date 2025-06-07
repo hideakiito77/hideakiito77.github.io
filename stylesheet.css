@@ -33,9 +33,12 @@ body {
     gap: 40px;
 }
 
+.nav a {
+    color: #ffff;
+}
+
 /* main part */
 .main {
-    background-color: aqua;
     margin: 15px 10px 15px 10px;
     padding: 20px 20px 20px 20px;
     font-size: 16px;
